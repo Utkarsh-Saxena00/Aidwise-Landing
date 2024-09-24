@@ -1,7 +1,3 @@
 {
-  "/differentiate-ai/page": "app/differentiate-ai/page.js",
-  "/about-us/page": "app/about-us/page.js",
-  "/product-suites/zero-shot-learning/page": "app/product-suites/zero-shot-learning/page.js",
-  "/contact-us/page": "app/contact-us/page.js",
   "/page": "app/page.js"
 }
